@@ -1,0 +1,43 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö¸ïıÿÿÿÿ8´ú¢«·.
+E	java:S108f")Either remove or fill this block of code.(Úîø›8™èà£·.
+o
+java:S2095."MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(­Óè¤ÿÿÿÿÿ8¾ãü·.
+t
+java:S20955"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ÒÆ×›øÿÿÿÿ8„’û·.
+n
+java:S20954"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Æåå§8ö£ù·.
+V
+java:S4719y"9Replace charset name argument with StandardCharsets.UTF_8(¦³ì8Şè²«·.
+o
+java:S2095v"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(è‚ºÇÿÿÿÿÿ8µˆ‘«·.
+e
+java:S2095G"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ĞÇ†÷8„ä£·.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ØÃ´Ìøÿÿÿÿ8‡ÁÃü·.
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8®ìµü·.
+n
+java:S2095T"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(±íîğşÿÿÿÿ8Üš¤·.
+k
+java:S1192"NDefine a constant instead of duplicating this literal "src/hello.txt" 3 times.(¸ÇÒæ8È«·.
+a
+java:S2147d"DCombine this catch with the one at line 98, which has the same body.(ï­£Ä8™èà£·.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8·š÷¶.
+F	java:S108…")Either remove or fill this block of code.(Úîø›8Àá”«·.
+Y
+java:S1854}"7Remove this useless assignment to local variable "len".(èÏªËıÿÿÿÿ8®Ô«·.
+L
+java:S2093t"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8µˆ‘«·.
+L
+java:S2093F"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ğí•¤·.
+F	java:S108”")Either remove or fill this block of code.(Úîø›8®ìµü·.
+l
+java:S2095y"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(¦³ì8ñÎ”«·.
+d
+java:S2095H"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Æ™‹^8”¸å£·.
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(ìèŞz8ª×¦¤·.
+Z
+java:S11977"8Move the array designator from the variable to the type.(è’ÙŒÿÿÿÿÿ8™°ƒ‚·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™»Šèûÿÿÿÿ8·š÷¶.
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å°Şùıÿÿÿÿ8­™ëö¶.
